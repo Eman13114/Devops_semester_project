@@ -65,3 +65,66 @@ items = [
         'description': 'A groundbreaking initiative',
         'date': '2025-03-13'
     },
+    {
+        'id': 11,
+        'title': 'Project Lambda',
+        'description': 'A groundbreaking initiative',
+        'date': '2025-03-13'
+    },
+    {
+        'id': 12,
+        'title': 'Project Mu',
+        'description': 'A groundbreaking initiative',
+        'date': '2025-03-13'
+    },
+    {
+        'id': 13,
+        'title': 'Project Nu',
+        'description': 'A groundbreaking initiative',
+        'date': '2025-03-13'
+    },
+    {
+        'id': 14    ,
+        'title': 'Project Xi',
+        'description': 'A groundbreaking initiative',
+        'date': '2025-03-13'
+    },
+    {
+        'id': 15,
+        'title': 'Project Omicron',
+        'description': 'A groundbreaking initiative',
+        'date': '2025-03-13'
+    },
+    {
+        'id': 16,
+        'title': 'Project Pi',
+        'description': 'A groundbreaking initiative',
+        'date': '2025-03-13'
+    },
+    {
+        'id': 17,
+        'title': 'Project Rho',
+        'description': 'A groundbreaking initiative',
+        'date': '2025-03-13'
+    },
+    {
+        'id': 18,
+        'title': 'Project Sigma',
+        'description': 'A groundbreaking initiative',
+        'date': '2025-03-13'
+    },
+    {
+        'id': 19,
+        'title': 'Project Tau',
+        'description': 'A groundbreaking initiative',
+        'date': '2025-03-13'
+    },
+    {
+        'id': 20,
+        'title': 'Project Upsilon',
+        'description': 'A groundbreaking initiative',
+        'date': '2025-03-13'
+    }
+]
+
+
