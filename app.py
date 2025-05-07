@@ -195,5 +195,5 @@ def toggle_theme():
     # In a real application, you would save this preference to a database or session
     return jsonify({'status': 'success', 'theme': theme})
 
-if __name__ == '__main__':
-    app.run(debug=True)
+if __name__ == "__main__":
+    app.run(host='0.0.0.0', port=5000)
