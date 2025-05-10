@@ -96,4 +96,5 @@ The application uses GitHub Actions for CI/CD pipeline, which includes:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 new stuff added
+2 test
 
