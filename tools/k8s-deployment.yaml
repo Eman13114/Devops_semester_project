@@ -1,24 +1,20 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: webapp-deployment
-  labels:
-    app: webapp
+  name: your-app-name
+  namespace: default
 spec:
-  replicas: 3
+  replicas: 2
   selector:
     matchLabels:
-      app: webapp
+      app: flask-app
   template:
     metadata:
       labels:
-        app: webapp
+        app: flask-app
     spec:
       containers:
-      - name: webapp-container
-        image: 22i0745/flask-showcase:latest
+      - name: flask-app
+        image: 22i0745/flask-app:latest
         ports:
         - containerPort: 5000
-        env:
-        - name: ENVIRONMENT
-          value: "production"
